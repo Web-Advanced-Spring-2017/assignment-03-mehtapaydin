@@ -24,3 +24,4 @@ Using Socket.io, Node.js and Paper.js I tried to create a collaborative drawing 
 - HTML5 - WebSockets (https://www.tutorialspoint.com/html5/html5_websocket.htm)
 - WebSockets Tutorial (https://www.tutorialspoint.com/websockets/index.htm)
 - Socket.io Documentation (https://socket.io/docs/client-api/)
+- Paper.js examples and documentation http://paperjs.org/

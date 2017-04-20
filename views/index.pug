@@ -1,0 +1,6 @@
+extends layout
+block content
+	canvas( id="draw", resize="true", keepalive="true" )
+	script( type="text/paperscript", src="javascripts/draw.js", canvas="draw")
+	//- script( type="text/paperscript", src="javascripts/line.js", canvas="draw")
+	//- script( type="text/javascript", src="javascripts/circle.js")

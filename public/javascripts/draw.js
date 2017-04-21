@@ -3,6 +3,8 @@ var socket = io();
 var sessionId = '';
 paths = {};
 
+tool.maxDistance=20
+
 socket.on('connect', function() {
 
   // when client connected to the server, set its id as sessionId
